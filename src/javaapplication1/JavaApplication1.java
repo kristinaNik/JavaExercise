@@ -16,8 +16,7 @@ public class JavaApplication1 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        
+    public static void main(String[] args) { 
         WildDuck wildDuck = new WildDuck();
         WildDuck.display();
         WildDuck.noQuack();

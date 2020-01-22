@@ -13,5 +13,5 @@ public class WildDuck extends Ducks {
     
     public static void display() {
           System.out.println("I'm a wild duck!");
-    }
+    }    
 }

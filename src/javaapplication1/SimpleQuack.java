@@ -15,5 +15,5 @@ public class SimpleQuack implements iQuackInterface {
     public void quack() {
         System.out.println("Quack quack");
     }
-   
+     
 }

@@ -10,11 +10,12 @@ package javaapplication1;
  * @author kristina
  */
 public class Ducks {
-    
+       
     public static void display() {
         System.out.println("I'm a duck");
     }
     
+     
     public static void quack() {
         SimpleQuack quack = new SimpleQuack();
         quack.quack();

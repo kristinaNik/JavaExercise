@@ -15,5 +15,5 @@ public class NoQuack implements iQuackInterface {
     public void quack() {
         System.out.println("I dont quack!");
     }
-    
+       
 }
